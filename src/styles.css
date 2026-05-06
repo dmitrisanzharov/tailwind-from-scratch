@@ -5,3 +5,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.responsive_color {
+    @apply text-3xl text-blue-900 sm:text-red-500 md:text-green-500 lg:text-yellow-500 xl:text-pink-500
+}

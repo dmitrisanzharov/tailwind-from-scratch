@@ -8,7 +8,13 @@ module.exports = {
       },
       colors: {
         wacky_custom_color: 'lightgray'
-      }
+      },
+      fontFamily: {
+        martel: ["Martel Sans"],
+        dyna: ["DynaPuff"],
+        cherry: ["Cherry Bomb One"],
+        modak: ["Modak"],
+      },
     },
   },
   variants: {

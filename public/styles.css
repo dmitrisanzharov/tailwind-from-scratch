@@ -31424,7 +31424,7 @@ video {
   font-size: 1.875rem;
   line-height: 2.25rem;
   --tw-text-opacity: 1;
-  color: rgba(30, 58, 138, var(--tw-text-opacity))
+  color: rgba(30, 58, 138, var(--tw-text-opacity));
 }
 
 @media (min-width: 640px){
@@ -31453,6 +31453,26 @@ video {
     --tw-text-opacity: 1;
     color: rgba(236, 72, 153, var(--tw-text-opacity));
   }
+}
+
+.btn {
+  margin: 1.25rem;
+  cursor: pointer;
+  border-radius: 9999px;
+  border-width: 2px;
+  --tw-border-opacity: 1;
+  border-color: rgba(239, 68, 68, var(--tw-border-opacity));
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  width: -moz-fit-content;
+  width: fit-content;
 }
 
 @media (min-width: 640px){

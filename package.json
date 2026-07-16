@@ -3,15 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "watch": "npx tailwindcss -i ./src/styles.css -o ./public/styles.css --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "autoprefixer": "^10.5.0",
-    "postcss": "^8.5.14",
-    "tailwindcss": "^2.2.16"
-  }
+  "description": ""
 }
